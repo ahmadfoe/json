@@ -1,0 +1,38 @@
+ {
+  "http_status": 200,
+  "name": "HERMAN",
+  "resi": "AKX23859",
+  "item": "Pajak Tahunan",
+  "track":[
+    {
+      "date": "Aug 04, 2018",
+      "time": "09:59 am",
+      "status": "intransit",
+      "position": "Dalam proses pengiriman ke kota tujuan"
+    },
+    {
+      "date": "Aug 01, 2018",
+      "time": "03:08 am",
+      "status": "intransit",
+      "position": "Dalam proses pengiriman ke kota tujuan"
+    },
+    {
+      "date": "Jul 31, 2018",
+      "time": "10:32 pm",
+      "status": "intransit",
+      "position": "Diterima di fasilitas kota asal"
+    },
+    {
+      "date": "Jul 31, 2018",
+      "time": "08:25 pm",
+      "status": "intransit",
+      "position": "Diterima di sales counter"
+    },
+    {
+      "date": "Jul 31, 2018",
+      "time": "08:25 pm",
+      "status": "intransit",
+      "position": ""
+    }
+  ]
+}
